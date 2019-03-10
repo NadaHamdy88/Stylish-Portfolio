@@ -1,0 +1,347 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.content{
+    overflow: hidden;
+}
+.content .sea{
+    background-image: url(../images/bg-masthead.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+    text-align: center;
+    }
+
+.content .sea .sky p{
+    font-weight: bold;
+    padding-top: 300px;
+    font-size: 75px;
+    }  
+
+.content .sea .sky h2{
+    font-weight: bold;
+    font-size: 25px;
+    padding-top:10px;
+}
+
+.done1 {
+    margin:40px 0 0 0px;
+    width: 200px;
+    height: 80px;
+    color: #fff;
+    background:#1569C7	;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    }
+    .content .strong{
+        text-align: center;
+    }
+   .content .strong h2{
+    padding-top: 50px;
+     font-weight: bold;
+     font-size: 39px;
+ }
+ .content .strong p{
+     padding-top: 10px;
+     font-size: 23px;
+ }
+ .content .strong span{
+   font-size: 23px;
+   color: blue;
+   
+   }
+ 
+ .done2{
+    margin:40px 0 0px 0px;
+    width: 200px;
+    height: 80px;
+    color: #fff;
+    background:#150517;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    }
+
+.try{
+ margin-top: 60px;
+ height: 450px;
+ background: #56A5EC;
+ text-align: center;
+    }
+ .try .it p{
+     color:#E9AB17	;
+     font-weight: bold;
+     font-size: 20px;
+     padding-top: 80px;
+ }
+
+ .try .it h2{
+     color: white;
+     font-weight: bold;
+     font-size: 40px;
+     padding-top: 10px;
+ }
+ .fa {
+    padding: 80px;
+    font-size: 70px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 500%;
+    }
+   
+.fa-mobile-phone{
+    background: white;
+    color: #56A5EC;
+    margin: 60px 0px 0 15px;
+    }
+    .one{
+        width: 25%;
+        float: left;
+        color: white;
+    }
+.fa-pencil{
+    background: white;
+    color: #56A5EC;
+    margin: 60px 0px 0 15px;
+    }
+    .two{
+        width: 25%;
+        float: left;
+        color: white;
+    }
+ .fa-thumbs-o-up{
+    background: white;
+    color: #56A5EC;
+    margin: 60px 0px 0 15px;
+    } 
+    .three{
+        width: 25%;
+        float: left;
+        color: white;
+    }
+ .fa-tripadvisor{
+    background: white;
+    color: #56A5EC;
+    margin: 60px 0px 0 15px;
+ }
+ .four{
+    width: 25%;
+    float: left;
+    color: white;
+ } 
+ 
+.more{
+ background-image: url(../images/bg-callout.jpg);
+ background-size: cover;
+ width: 100%;
+ height:600px;
+ text-align: center;
+    
+ }
+ .more .much p{
+    font-weight: bold;
+    padding-top: 200px;
+    font-size: 75px;
+}  
+.more .much h2{
+    font-weight: bold;
+    font-size: 60px;
+    padding-top:10px;
+}
+.done3 {
+    margin:50px 0 0 0px;
+    width: 200px;
+    height: 80px;
+    color: #fff;
+    background:#1569C7	;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    }
+
+     .hot{
+        height: 200px;
+        text-align: center;
+        }
+
+        .hot .hotter p{
+            text-align: center;
+            color:#E9AB17	;
+            font-weight: bold;
+            font-size: 20px;
+            padding-top: 80px;
+        }
+
+        .hot .hotter h2{
+            color:black;
+            font-weight: bold;
+            text-align: center;
+            font-size: 60px;
+            padding-top: 10px;
+        }
+        .group .gallery1{
+            background-image: url(../images/portfolio-1.jpg);
+            width: 50%;
+            height:300px ;
+            float: left;
+            background-size: cover;
+            color: white;
+        }
+        .group .gallery1 h2 {
+            padding: 200px 0 0 60px;
+        }
+        .group .gallery1 p{
+            padding: 15px 0 0 60px;
+        }
+        .group .gallery2{
+            background-image: url(../images/portfolio-2.jpg);
+            width: 50%;
+            height:300px ;
+            float: left;
+            background-size: cover;
+            color: white;
+            }
+            .group .gallery2 h2 {
+                padding: 200px 0 0 60px;
+            }
+            .group .gallery2 p{
+                padding: 15px 0 0 60px;
+            }
+        .group .gallery3{
+            background-image: url(../images/portfolio-3.jpg);
+            width: 50%;
+            height:300px ;
+            float: left;
+            background-size: cover;
+            color: white;
+        }
+        .group .gallery3 h2 {
+            padding: 200px 0 0 60px;
+        }
+        .group .gallery3 p{
+            padding: 15px 0 0 60px;
+        }
+        .group .gallery4{
+            background-image: url(../images/portfolio-4.jpg);
+            width: 50%;
+            height: 300px;
+            float: left;
+            background-size: cover;
+            color: white;
+        }
+        .group .gallery4 h2 {
+            padding: 200px 0 0 60px;
+        }
+        .group .gallery4 p{
+            padding: 15px 0 0 60px;
+        }
+        
+
+        .tired{
+            margin-top: 700px;
+            height:400px;
+            background: #56A5EC;
+            text-align: center;
+            }
+
+               .tired .so p{
+                text-align: center;
+                color: white	;
+                font-weight: bold;
+                font-size: 40px;
+                padding-top: 90px;
+            }
+            .tired .so .done5 .in12{
+                display: inline;
+                 }
+
+           .tired .so .done5 .in1{
+            margin:50px 0 0 300px;
+            padding-left: 15px;
+            width: 200px;
+            height: 80px;
+            color:black;
+            background:white;
+            border-radius: 5px;
+            font-weight: bold;
+            font-size: 20px;
+            border: none;
+            cursor: pointer;
+           }
+           .tired .so .done5 .in2{
+            margin:50px 270px 0 15px;
+            padding-left: 15px;
+            width: 200px;
+            height: 80px;
+            color:white;
+            background:#25383C;
+            border-radius: 5px;
+            font-weight: bold;
+            font-size: 20px;
+            border: none;
+            cursor: pointer;
+           }
+
+           .finish{
+               height: 300px;
+               text-align: center;
+           }
+           .fa {
+            padding: 20px;
+            font-size: 30px;
+            width: 20px;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 70%;
+        }
+        .fa-facebook {
+            background: #56A5EC;
+            color: white;
+            margin: 75px 0px 0 0px; 
+            
+        }
+        .fa-twitter{
+            background: #56A5EC;
+            color: white;
+            margin: 75px 0px 0 0px; 
+            }
+             .fa-github {
+                background: #56A5EC;
+                color: white;
+             }
+
+             .end{
+                 text-align: center;
+                 padding-top: 70px;
+                 color: #736F6E	;
+             }
+            
+           
+          
+       
+
+                 
+
+                 
+            
+
+
+
+
+
+
+
+
+
+    
+    
